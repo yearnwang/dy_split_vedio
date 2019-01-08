@@ -2,6 +2,15 @@
 
 python脚本 最近抖音比较火，可是新用户只能发15秒的视频，这个脚本可以把一个视频按15秒进行分开，并且加上标题，在ubuntu上测试成功
 
+## 使用方法
+- python split_vedio.py -h
+- python split_vedio.py 视频路径 标题名字 颜色
+- python split_vedio.py dy.mp4 抖音课程 red
+
+## 分割后的效果图
+
+
+
 ## python 版本
 
 Python 2.7.3
@@ -19,6 +28,5 @@ fribidi：https://github.com/fribidi/fribidi/releases/download/v1.0.3/fribidi-1.
 - pip install ffmpeg-python
 
 
-## 效果图
 
 
