@@ -26,8 +26,8 @@ python脚本 最近抖音比较火，可是新用户只能发15秒的视频，�
 Python 2.7.3
 
 ## 依赖
-FreeType：https://downloads.sourceforge.net/freetype/freetype-2.9.1.tar.bz2
-fribidi：https://github.com/fribidi/fribidi/releases/download/v1.0.3/fribidi-1.0.3.tar.bz2
+- FreeType：https://downloads.sourceforge.net/freetype/freetype-2.9.1.tar.bz2
+- fribidi：https://github.com/fribidi/fribidi/releases/download/v1.0.3/fribidi-1.0.3.tar.bz2
 
 ##  ffmpeg
 - 编译ffmpeg 时候，记得加入 --enable-libfreetype 要不然drawtext会出错
